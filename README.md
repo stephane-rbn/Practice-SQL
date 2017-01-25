@@ -8,8 +8,10 @@ Before you manage your data with PostgreSQL, you need to:
 
 1. **Install** PostgreSQL in your system. I won't explain here how to install PostgreSQL because it really depends on which OS you use.
 I personnally work on OSX and I installed PostgreSQL via [Postgre.app].
+(Edit: I don't use the Postgre.app anymore, so I reinstalled PostgreSQL with Homebrew with this cool [tutorial].) 
 
 [Postgre.app]:http://postgresapp.com/
+[tutorial]:https://www.codefellows.org/blog/three-battle-tested-ways-to-install-postgresql/
 
 1. **Import (git clone)** this repository locally.
 
