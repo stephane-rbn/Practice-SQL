@@ -23,8 +23,8 @@ This repository owns two files:
 - */sql/[weather_table.txt]* : this file contains the query to create a new table called 'weather' that will holds our data. These data comes from [Wunderground.com].
 I wanted you not to lose time. Say 'thank you'! :-)
 
-[temperature_data.csv]: https://github.com/Stephanyan/practice_sql/blob/master/temperature_data.csv
-[weather_table.txt]:https://github.com/Stephanyan/practice_sql/blob/master/sql/weather_table.txt
+[temperature_data.csv]: https://github.com/Stephanyan/Practice-SQL/blob/master/temperature_data.csv
+[weather_table.txt]:https://github.com/Stephanyan/Practice-SQL/blob/master/sql/weather_table.txt
 [Wunderground.com]:http://www.wunderground.com/history/airport/KORL/2010/3/12/CustomHistory.html?dayend=13&monthend=4&yearend=2011&req_city=&req_state=&req_statename=&reqdb.zip=&reqdb.magic=&reqdb.wmo=&MR=1
 
 ### III. Basics
